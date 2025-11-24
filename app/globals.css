@@ -10,6 +10,22 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  /* Custom wedding color palette */
+  --color-wedding-50: #fdf8f6;
+  --color-wedding-100: #f2e8e5;
+  --color-wedding-200: #eaddd7;
+  --color-wedding-300: #e0cec7;
+  --color-wedding-400: #d2bab0;
+  --color-wedding-500: #a18072;
+  --color-wedding-600: #5e504c;
+  --color-wedding-700: #4a3f3c;
+  --color-wedding-800: #1f2937;
+  --color-wedding-900: #111827;
+
+  /* Custom fonts */
+  --font-family-serif: Georgia, Cambria, 'Times New Roman', Times, serif;
+  --font-family-sans: 'Helvetica Neue', Arial, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
